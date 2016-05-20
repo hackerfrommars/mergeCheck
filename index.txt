@@ -1,10 +1,5 @@
-(oiwo)// this was (oiwo) added by HFM 
- 
-// hello darkness my old friend(HFM)(3)
-// this line should be on the line(HFM)(4)
-
-// added new things to that later commit (HFM)
-// new line by (oiwo).....
-// keep continueing this problem with altitude (HFM)
-// keep doing that thing
-// this would be last line(HFM)
+1 first line(HFM)
+3 third line(HFM)
+5 fifth line(HFM)
+8 eight line(HFM)
+10 tenth line(HFM)
